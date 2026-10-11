@@ -1,0 +1,3 @@
+# Output di compilazione e firmware binari
+firmware/build/
+*.uf2
