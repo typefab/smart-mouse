@@ -2,6 +2,9 @@
 
 Codice: `firmware/smart-mouse-v0/`
 
+> Superato dalla **v1** (file 07), che aggiunge la configurazione da `config.txt`.
+> La v0 resta come riferimento più semplice.
+
 Primo firmware del progetto. Sostituisce HID Remapper, che non riconosce il mouse Trust
 (low-speed) dietro l'hub (vedi file 05). Usa lo stesso stack che nella diagnostica funziona:
 **Adafruit TinyUSB + Pico-PIO-USB** su core Arduino **arduino-pico**.
