@@ -14,6 +14,7 @@ per configurare le funzioni.
 | [04-idee-e-progetti-esp32.md](04-idee-e-progetti-esp32.md) | Funzioni possibili per l'ESP32 e progetti simili trovati online |
 | [05-hub-usb.md](05-hub-usb.md) | Aggiungere un hub USB per collegare più dispositivi |
 | [06-firmware-v0.md](06-firmware-v0.md) | Primo firmware: mouse passante + tasti laterali come scorciatoie |
+| [07-firmware-v1.md](07-firmware-v1.md) | Firmware attuale: tasti configurabili da `config.txt` su unità USB |
 | `schemi/` | Schemi di collegamento in formato SVG (apribili nel browser, stampabili) |
 
 ## Scelta dell'architettura
