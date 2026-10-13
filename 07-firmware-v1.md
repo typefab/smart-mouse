@@ -90,5 +90,5 @@ contatori dei report del mouse.
   configurazione riletta; file con errori → `errori.txt` corretto; ripristino → `errori.txt` rimosso.
 - `CTRL+SHIFT+T`, `alt + f4` (minuscolo, con spazi), `VOLUME_SU` interpretati correttamente.
 
-Da provare con il mouse in mano: combinazione dei laterali, scorciatoie con il ritardo accordo,
-tasti multimediali.
+- Con il mouse in mano (2026-10-13): combinazione dei laterali, modifica ed espulsione,
+  scorciatoie con il ritardo accordo: tutto funzionante.
